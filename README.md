@@ -56,9 +56,11 @@ I aim to be an active member in the company that I work for, working diligently 
 ---
 
 ## Contact Me
-<p align="center">
-  📧 <b>Email:</b> <a href="mailto:your-ai.sallamwork@gmail.com">ai.sallamwork@gmail.com</a><br>
-  📱 <b>Phone (WhatsApp):</b> <a href="https://wa.me/967781666611">+967 781666611</a><br>
-  💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/aimen-sallam-508aa91b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Aimen Sallam</a>
-</p>
+<div align="center">
 
+[![LinkedIn](https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png)](https://www.linkedin.com/in/aimen-sallam-508aa91b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Facebook](https://img.icons8.com/ios-filled/50/1877F2/facebook.png)](https://www.facebook.com/profile.php?id=100078509563859)
+[![WhatsApp](https://img.icons8.com/ios-filled/50/25D366/whatsapp.png)](https://wa.me/967781666611)
+[![Email](https://img.icons8.com/ios-filled/50/D14836/gmail.png)](mailto:ai.sallamwork@gmail.com)
+
+</div>
