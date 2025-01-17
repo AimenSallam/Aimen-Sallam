@@ -54,9 +54,9 @@ I aim to be an active member in the company that I work for, working diligently 
 
 ## Contact Me
 <p align="center">
-  📧 <b>Email:</b> <a href="mailto:your-email@example.com">your-email@example.com</a> <br>
+  📧 <b>Email:</b> <a href="mailto:your-ai.sallamwork@gmail.com">ai.sallamwork@gmail.com</a> <br>
   📱 <b>Phone (WhatsApp):</b> <a href="https://wa.me/967781666611">+967 781666611</a> <br>
-  💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/your-profile">Your LinkedIn Profile</a>
+💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/aimen-sallam-508aa91b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Aimen Sallam<b></a>
 </p>
 
 ---
