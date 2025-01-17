@@ -1,4 +1,3 @@
-
 <h1 align="center"> Aimen Ahmed Sallam</h1>
 <p align="center">
   🎓 <b>Computer Science Graduate</b> <b> from Sana'a University </b><br>
@@ -8,7 +7,7 @@
 ---
 
 ## About Me
-Hi! I'm **Aimen Ahmed Sallam**, a passionate software developer with expertise in various programming languages and technologies. I love building innovative solutions and exploring new challenges in the tech world.  
+Hi! I'm **Aimen Ahmed Sallam**, a passionate software developer with expertise in various programming languages and technologies. I love building innovative solutions and exploring new challenges in the tech world.
 
 ---
 
@@ -39,28 +38,23 @@ Hi! I'm **Aimen Ahmed Sallam**, a passionate software developer with expertise i
 </div>
 
 ---
-## Career Objective 
 
-I aim to be an active member in the company that I work for, working diligently towards achieving the desired goals with dedication, professionalism, and proficiency.  
+## Career Objective
+I aim to be an active member in the company that I work for, working diligently towards achieving the desired goals with dedication, professionalism, and proficiency.
 
 ---
 
 ## Goals
-- Improve my skills in software architecture and design.  
-- Collaborate on open-source projects and contribute to the developer community.  
-- Learn advanced data structures and algorithms.  
+- Improve my skills in software architecture and design.
+- Collaborate on open-source projects and contribute to the developer community.
+- Learn advanced data structures and algorithms.
 
 ---
 
 ## Contact Me
 <p align="center">
-  📧 <b>Email:</b> <a href="mailto:your-ai.sallamwork@gmail.com">ai.sallamwork@gmail.com</a> <br>
-  📱 <b>Phone (WhatsApp):</b> <a href="https://wa.me/967781666611">+967 781666611</a> <br>
-💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/aimen-sallam-508aa91b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Aimen Sallam<b></a>
+  📧 <b>Email:</b> <a href="mailto:your-ai.sallamwork@gmail.com">ai.sallamwork@gmail.com</a><br>
+  📱 <b>Phone (WhatsApp):</b> <a href="https://wa.me/967781666611">+967 781666611</a><br>
+  💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/aimen-sallam-508aa91b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Aimen Sallam</a>
 </p>
 
----
-
-<div align="center">
-   <b>Let’s build something amazing together!</b> 
-</div>
