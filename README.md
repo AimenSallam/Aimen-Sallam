@@ -40,14 +40,6 @@ Hi! I'm **Aimen Ahmed Sallam**, a passionate software developer with expertise i
 
 ---
 
-## GitHub Statistics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aimenahmedsallam&show_icons=true&theme=radical" alt="Aimen's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimenahmedsallam&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</div>
-
----
-
 ## Goals
 - 🚀 Improve my skills in software architecture and design.  
 - 🤝 Collaborate on open-source projects and contribute to the developer community.  
